@@ -20,18 +20,13 @@ h1{
     font-size: 3vw;
     color:white;
 }
-.container_menu li{
-    
-   
-    display: flex;
-    justify-content: space-between;
-    cursor: pointer;
-    width:100%;
-    align-items: center;
-    color: white;
-    margin-left: 1vw;
-    list-style: none;
-    font-weight: 600;
-    font-size: 1.5rem;
-    
+
+header ul li{
+    display: inline-block;
+    margin-left:20vw;
+    color:white;
+    width:10vw;
+    font-size:200;
+    font-weight: 1000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
